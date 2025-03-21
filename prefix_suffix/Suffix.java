@@ -9,7 +9,7 @@ public class Suffix {
     }
 
     static int[] findSuffix(int[] arr) {
-        if (arr == null)
+        if (arr == null || arr.length == 0)
             return new int[] { -1 };
         if (arr.length == 1)
             return new int[] { arr[0] };
