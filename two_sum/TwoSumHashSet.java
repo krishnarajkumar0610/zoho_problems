@@ -1,4 +1,4 @@
-package zoho_problems.two_sum;
+package two_sum;
 
 import java.util.*;
 

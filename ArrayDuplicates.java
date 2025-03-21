@@ -1,4 +1,3 @@
-package zoho_problems;
 import java.util.Arrays;
 
 public class ArrayDuplicates {
