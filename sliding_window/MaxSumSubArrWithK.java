@@ -1,5 +1,3 @@
-package zoho_problems.sliding_window;
-
 public class MaxSumSubArrWithK {
     public static int maxSumSubarray(int[] arr, int k) {
         if (arr.length < k) {
